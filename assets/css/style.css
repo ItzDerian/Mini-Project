@@ -1,0 +1,32 @@
+body {
+    background-color: green;
+}
+
+
+ul {
+    background-color: blue;
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+}
+nav {
+    display: inline;
+    background-color: blue;
+}
+
+li {
+    display: inline;
+    position: relative;
+    left: 1100px;
+}
+
+section {
+    text-align: center;
+}
+#contact-section {
+    background-color: orange;
+}
+
+#info {
+    display: block;
+}
